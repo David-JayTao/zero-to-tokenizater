@@ -1,1 +1,1 @@
-learning notes，lecture is here：https://github.com/karpathy/minbpe.git
+learning notes od minBPE，lecture is here：https://github.com/karpathy/minbpe.git
